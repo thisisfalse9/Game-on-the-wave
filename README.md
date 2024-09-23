@@ -2,9 +2,9 @@
 
 ![Game on the Waves Cover](image.png)
 
-**Author:** False 9  
+**Author:** Pyae Sone Phyo (False 9)  
 **Editor:** James  
-**Cover Design:** False 9
+**Reviewer:** Thomas, Ko Lin Kyaw Swar Aung
 
 ## Genre
 - Non-fiction  
@@ -17,3 +17,10 @@ This book explores the application of technology in the football industry, detai
 
 ## Audiobook
 [![Audiobook on YouTube](https://img.youtube.com/vi/PVjTqLBViys/0.jpg)](https://youtu.be/PVjTqLBViys?si=lQnXCyOuw58RqfeU)
+
+## Access Book
+- [Google Drive](https://drive.google.com/file/d/1bQfzrQxnpOSxiTshUrBBmnl_p2fHqqj_/view?usp=sharing)  
+- [Telegram](https://t.me/c/2206007881/6)
+
+## Contact
+- **Email:** harrytyler962@gmail.com
